@@ -10,8 +10,9 @@ Bart:
 ------------
 tot:    420
 ------------
-after:  320
+after:  0
 
 transacties:
 -------------
-100 --> 136.56 ripple --> rM7hXnVUSkYD18jBHMmGBsZyn9JSeHkmX
+100 --> 136.56 Ripple --> rM7hXnVUSkYD18jBHMmGBsZyn9JSeHkmX
+321.95 --> 2741.69898600 Verge --> insert wallet here
